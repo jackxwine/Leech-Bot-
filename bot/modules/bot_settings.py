@@ -358,7 +358,7 @@ async def load_config():
 
     UPSTREAM_REPO = environ.get('UPSTREAM_REPO', '')
     if len(UPSTREAM_REPO) == 0:
-        UPSTREAM_REPO = 'https://github.com/itskrishname/KPSML-X-leech.git'
+        UPSTREAM_REPO = 'https://github.com/jackxwine/Leech-Bot-.git'
 
     UPSTREAM_BRANCH = environ.get('UPSTREAM_BRANCH', '')
     if len(UPSTREAM_BRANCH) == 0:
@@ -454,11 +454,11 @@ async def load_config():
 
     AUTHOR_URL = environ.get('AUTHOR_URL', '')
     if len(AUTHOR_URL) == 0:
-        AUTHOR_URL = 'https://t.me/Lord_Vasudev_Krishna'
+        AUTHOR_URL = 'https://t.me/Team_Wine'
 
     TITLE_NAME = environ.get('TITLE_NAME', '')
     if len(TITLE_NAME) == 0:
-        TITLE_NAME = 'Sᴇᴄʀᴇᴄᴛ 𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇs'
+        TITLE_NAME = '𝖤𝗋𝖺𝗇 𝖸𝗎𝗆𝗂𝗇𝗀'
         
     COVER_IMAGE = environ.get('COVER_IMAGE', '')
     if len(COVER_IMAGE) == 0:
@@ -466,7 +466,7 @@ async def load_config():
 
     GD_INFO = environ.get('GD_INFO', '')
     if len(GD_INFO) == 0:
-        GD_INFO = 'Uploaded by Sᴇᴄʀᴇᴄᴛ 𝐁ᴏᴛ 𝐔ᴘᴅᴀᴛᴇs'
+        GD_INFO = 'Uploded by 𝖳𝖾𝖺𝗆 Wine'
 
     SAVE_MSG = environ.get('SAVE_MSG', '')
     SAVE_MSG = SAVE_MSG.lower() == 'true'
