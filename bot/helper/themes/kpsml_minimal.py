@@ -3,9 +3,9 @@ class KPSMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '𝖢𝗋𝖾𝖺𝗍𝗈𝗋'
-    ST_BN1_URL = 'https://t.me/Issei_senpai'
+    ST_BN1_URL = 'https://t.me/Jack_Wizard'
     ST_BN2_NAME = '𝖳𝖾𝖺𝗆'
-    ST_BN2_URL = 'https://t.me/ybxanime'
+    ST_BN2_URL = 'https://t.me/Vecna_Bots'
     ST_MSG = '''<b><i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>\n
 Type {help_command} to get a list of available commands</b>'''
     ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
